@@ -2,7 +2,7 @@
 - 👀 Ik ben geïnteresseerd in cijfertjes en lettertjes.
 - 🌱 Ik ben op dit moment software/data engineering aan het leren.
 - 💞️ Ik werk samen met andere dlfers op dlf projecten.
-- 📫 Mail me maar: koen@datalabfabriek.nl
+- 📫 Mail me maar: koen@datalab.nl
 
 <!---
 kvermdlf/kvermdlf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
